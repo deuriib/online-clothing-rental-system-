@@ -1,13 +1,5 @@
 # Online-Clothing-Rental-System
 
-
-
-
-
-
-# Hi, I'm Kashigari Gayathri! 👋
-
-
 The Online Clothes Rental System is a web-based application designed to simplify the process of renting clothes. It allows users to browse a variety of clothing categories, manage their cart, place orders, and make payments efficiently.
 
 ## Key Features
